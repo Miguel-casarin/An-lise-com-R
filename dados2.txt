@@ -1,0 +1,176 @@
+paises,liberdade_monetaria,inflacao
+Japan,87.1,0.0
+Portugal,86.8,-0.1
+Singapore,86.5,-0.2
+Italy,86.2,-0.1
+Taiwan,86.1,-0.2
+Denmark,85.7,0.3
+Montenegro,85.6,-0.2
+Spain,85.4,-0.3
+South Korea,85.2,0.5
+Ireland,85.2,-0.5
+Slovenia,85.1,-0.1
+Bosnia and Herzegovina,84.9,-0.6
+Switzerland,84.9,-0.7
+Finland,84.9,0.4
+Dominica,84.9,-0.3
+Israel,84.8,-0.6
+Oman,84.7,-0.9
+Trinidad and Tobago,84.6,0.6
+Cape Verde,84.4,0.6
+Micronesia,84.3,0.5
+Belgium,84.3,0.4
+Saint Vincent and the Grenadines,84.2,-0.6
+Jordan,84.2,0.4
+Cyprus,83.9,-1.1
+Latvia,83.8,0.1
+Malaysia,83.6,-1.1
+Sweden,83.6,0.7
+Guinea-Bissau,83.4,1.5
+Guyana,83.3,0.7
+Australia,83.2,0.9
+Costa Rica,83.1,0.7
+United Kingdom,83.0,0.9
+Estonia,82.8,-0.6
+Mali,82.8,0.6
+Belize,82.5,0.1
+United States,82.3,1.2
+Austria,82.3,1.4
+Lithuania,82.3,1.1
+Saint Lucia,82.2,-1.8
+Netherlands,82.1,1.1
+Seychelles,82.1,1.2
+Albania,82.0,1.6
+Bulgaria,81.9,1.2
+New Zealand,81.8,1.7
+Serbia,81.6,1.7
+Comoros,81.5,1.1
+Ecuador,81.5,-0.3
+Gabon,81.5,1.3
+Samoa,81.4,1.5
+Peru,81.4,1.8
+Bahrain,81.1,-2.3
+United Arab Emirates,80.8,-2.1
+Kiribati,80.7,2.5
+Republic of the Congo,80.5,2.4
+Croatia,80.5,0.3
+Benin,80.4,3.0
+Indonesia,80.3,2.0
+Mauritania,80.3,2.3
+Algeria,80.1,2.4
+Luxembourg,80.1,0.0
+Morocco,80.0,0.6
+Cameroon,79.9,2.8
+Timor-Leste,79.5,0.5
+Germany,79.5,0.4
+Chile,79.4,3.0
+Colombia,79.3,2.5
+Iceland,79.3,2.9
+Guatemala,79.3,2.4
+Bahamas,79.2,0.0
+Kosovo,79.1,0.2
+Poland,79.1,3.4
+France,79.1,0.5
+Solomon Islands,79.0,3.4
+Czech Republic,79.0,3.2
+Namibia,79.0,2.6
+Saudi Arabia,79.0,3.4
+Romania,78.8,2.6
+Mozambique,78.8,3.1
+Greece,78.6,-1.3
+Barbados,78.6,2.9
+Malta,78.5,0.8
+Hungary,78.5,3.3
+Brazil,78.4,3.2
+North Macedonia,78.3,1.2
+Uganda,78.2,3.8
+Canada,78.2,0.7
+Panama,78.1,-1.6
+South Africa,78.0,3.3
+Eswatini,77.9,3.9
+Armenia,77.5,1.2
+Togo,77.3,1.8
+Maldives,77.2,-1.6
+Norway,76.9,1.3
+El Salvador,76.8,0.2
+Jamaica,76.2,5.2
+Senegal,76.1,2.5
+Georgia,76.0,5.2
+Mongolia,76.0,3.7
+Qatar,76.0,-2.7
+Lesotho,75.9,4.9
+Madagascar,75.9,4.2
+Mauritius,75.9,2.5
+Burkina Faso,75.6,1.9
+Paraguay,75.6,1.8
+Kenya,75.5,5.3
+Slovakia,75.5,2.0
+Botswana,75.4,2.0
+Central African Republic,75.3,2.3
+Fiji,74.9,-2.6
+Cambodia,74.7,2.9
+Niger,74.6,2.8
+Azerbaijan,74.5,2.8
+Rwanda,74.4,8.0
+Tunisia,74.4,5.7
+Vanuatu,74.4,2.9
+Chad,74.2,3.5
+Thailand,74.2,-0.8
+Myanmar,73.9,5.7
+Tanzania,73.8,3.0
+Dominican Republic,73.5,3.8
+Equatorial Guinea,73.0,4.8
+Mexico,73.0,3.4
+Bolivia,72.8,0.9
+Bhutan,72.7,4.2
+Honduras,72.7,3.5
+Turkmenistan,72.7,7.6
+Moldova,72.4,3.8
+Brunei,72.3,1.9
+Nicaragua,72.0,3.7
+Tonga,71.9,0.2
+Laos,71.8,5.1
+Kuwait,71.7,2.1
+Sri Lanka,71.6,4.6
+Kyrgyzstan,71.4,6.3
+Papua New Guinea,71.4,5.0
+Ivory Coast,71.3,2.5
+Ukraine,71.2,2.7
+Malawi,71.1,8.6
+Egypt,70.9,5.7
+Uruguay,70.9,9.8
+Ghana,70.8,9.9
+Burundi,70.3,7.3
+Belarus,70.2,5.5
+Bangladesh,70.0,5.6
+China,70.0,2.4
+India,70.0,6.2
+Nepal,70.0,6.2
+Guinea,69.7,10.6
+Djibouti,69.5,2.9
+Philippines,69.4,2.6
+Kazakhstan,69.1,6.8
+Vietnam,68.8,3.2
+Russia,68.0,3.4
+Nigeria,67.5,13.2
+Tajikistan,67.1,8.6
+Zambia,66.4,16.4
+Pakistan,65.9,10.7
+Sao Tome and Principe,65.9,9.8
+Sierra Leone,65.1,15.7
+Gambia,64.1,5.9
+DR Congo,63.7,11.3
+Turkey,61.9,12.3
+Liberia,61.7,17.0
+Uzbekistan,61.6,12.9
+Eritrea,61.5,4.9
+Angola,61.2,22.3
+Suriname,58.4,34.9
+Ethiopia,57.7,20.4
+Haiti,56.2,22.9
+Iran,42.3,36.5
+Lebanon,41.1,88.2
+Argentina,37.9,42.0
+Sudan,13.7,163.3
+Venezuela,0.0,2355.1
+Zimbabwe,0.0,557.2
